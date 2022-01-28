@@ -1,4 +1,4 @@
-package com.emmantoksjr;
+package com.emmantoksjr.datastructures;
 
 import java.util.ArrayList;
 import java.util.List;
